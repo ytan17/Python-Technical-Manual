@@ -1,3 +1,3 @@
-WRD 204: Technical Writing
+#WRD 204: Technical Writing
 
 In this course, students learn to communicate and interpret specialized information for readers' practical use. The course highlights the action-orientated goals of technical writing and the importance of accurately communicating information to users. The course provides an overview of key issues related to technical writing such as usability, audience analysis, designing pages and screens, effective collaboration with peers, interpreting and presenting data, and writing clearly and persuasively. Students learn to write, revise and present common technical writing genres such as instructions, tutorials, manuals, reports, product/process descriptions, proposals, and oral presentations.
